@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "overheat:block/unactive_activator"
+	}
+}

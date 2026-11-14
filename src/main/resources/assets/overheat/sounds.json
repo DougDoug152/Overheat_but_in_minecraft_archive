@@ -1,0 +1,98 @@
+{
+	"wall_attach": {
+		"subtitle": "subtitles.overheat.wall_attach",
+		"sounds": [
+			"overheat:wall_attach"
+		]
+	},
+	"wall_let_go": {
+		"subtitle": "subtitles.overheat.wall_let_go",
+		"sounds": [
+			"overheat:wall_let_go"
+		]
+	},
+	"wall_slide": {
+		"subtitle": "subtitles.overheat.wall_slide",
+		"sounds": [
+			"overheat:wall_slide"
+		]
+	},
+	"unused_special_wall_jump": {
+		"subtitle": "subtitles.overheat.unused_special_wall_jump",
+		"sounds": [
+			"overheat:unused_special_wall_jump"
+		]
+	},
+	"unused_special_wall_jump_recharge": {
+		"subtitle": "subtitles.overheat.unused_special_wall_jump_recharge",
+		"sounds": [
+			"overheat:unused_special_wall_jump_recharge"
+		]
+	},
+	"dash": {
+		"subtitle": "subtitles.overheat.dash",
+		"sounds": [
+			"overheat:dash"
+		]
+	},
+	"recharge": {
+		"subtitle": "subtitles.overheat.recharge",
+		"sounds": [
+			"overheat:recharge"
+		]
+	},
+	"air_jump_recharge": {
+		"subtitle": "subtitles.overheat.air_jump_recharge",
+		"sounds": [
+			"overheat:air_jump_recharge"
+		]
+	},
+	"air_jump": {
+		"subtitle": "subtitles.overheat.air_jump",
+		"sounds": [
+			"overheat:air_jump"
+		]
+	},
+	"punch": {
+		"subtitle": "subtitles.overheat.punch",
+		"sounds": [
+			"overheat:punch1"
+		]
+	},
+	"slide_start": {
+		"subtitle": "subtitles.overheat.slide_start",
+		"sounds": [
+			"overheat:slide_start"
+		]
+	},
+	"slide_sliding": {
+		"subtitle": "subtitles.overheat.slide_sliding",
+		"sounds": [
+			"overheat:slide_sliding"
+		]
+	},
+	"slide_sliding_loop": {
+		"subtitle": "subtitles.overheat.slide_sliding",
+		"sounds": [
+			"overheat:slide_sliding_loop"
+		]
+	},
+	"slide_end": {
+		"subtitle": "subtitles.overheat.slide_end",
+		"sounds": [
+			"overheat:slide_end"
+		]
+	},
+	"ability_gain": {
+		"subtitle": "subtitles.overheat.ability_gain",
+		"sounds": [
+			"overheat:ability_gain"
+		]
+	},
+	"ability_remove": {
+		"subtitle": "subtitles.overheat.ability_remove",
+		"sounds": [
+			"overheat:ability_remove"
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"required": true,
+	"package": "com.overheat.movement.client.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"AirFrameMixin",
+		"CameraTiltMixin",
+		"FirstPersonArmsHandPassMixin",
+		"FirstPersonArmsWorldPassMixin",
+		"FovKickMixin",
+		"MultiplayerWarningMixin",
+		"SlideCrouchMixin",
+		"SlideLedgeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

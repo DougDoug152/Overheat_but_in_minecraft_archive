@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "overheat:block/unactive_activator" }
+	}
+}
